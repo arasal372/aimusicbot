@@ -3,3 +3,11 @@
 .termux/
 .bash_history
 .lesshst
+.cache/
+.ssh/
+.termux/
+mybot/
+starsbot/
+storage/
+.bash_history
+.lesshst
