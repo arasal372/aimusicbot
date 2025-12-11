@@ -1,3 +1,5 @@
 pyTelegramBotAPI
 python-dotenv
 openai
+yt_dlp
+python-telegram-bot==22.5
