@@ -1,4 +1,5 @@
-.ssh/
 .cache/
+.ssh/
 .termux/
-*.env
+.bash_history
+.lesshst
