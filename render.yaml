@@ -1,8 +1,0 @@
-services:
-  - type: worker
-    name: aimusicbot
-    env: python
-    region: singapore
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python bot.py"
-    autoDeploy: true
